@@ -10,12 +10,6 @@
   <img src="https://i.ibb.co/z7YbG4P/Whats-App-Image-2019-08-03-at-18-47-29-1.png" alt="Whats-App-Image-2019-08-03-at-18-47-29-1" border="1" height="400">
 </p>
 
-# Contribuição:
-
-- Para o nosso app do Slipknot ir para a loja do android - **Play Store** terei que pagar a taxa de abertura da conta que tem o custo de \$ 25 (dólares), valor cobrado pela própria Google. Esse valor só precisa ser pago para abrir a conta, é uma taxa única,não tem renovação.
-  >
-- Então quem poder ajudar a bater a meta de 100,00 R\$ para eu poder comprar essa licença basta apenas clicar na **[vaquinha](https://www.vakinha.com.br/vaquinha/665868)** e fazer sua contribuição (qualquer valor é aceito).
-
 # Instalação:
 
 Faça Download do [slipknot-news.apk](http://www.mediafire.com/file/zswur32lcie8wxr/slipknot-news.apk/file), logo após realizar o download execute o arquivo .apk, se acontecer o seguinte:
